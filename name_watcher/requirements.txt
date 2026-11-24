@@ -1,0 +1,5 @@
+mss
+pytesseract
+Pillow
+# optional: spoken alerts
+# pyttsx3
